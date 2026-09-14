@@ -30,27 +30,8 @@ The solution integrates data from multiple sources, including Azure SQL Database
 
 ## Architecture
 
-Azure SQL DB / REST API
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bffc1588-d0d6-4466-ae31-414637a8a764" />
 
-        ↓
-        
-Azure Data Factory
-
-        ↓
-        
-ADLS Gen2
-
-        ↓
-        
-Azure Databricks
-
-        ↓
-        
-Bronze → Silver → Gold
-
-        ↓
-        
-Power BI
 
 ## Business Objective
 
