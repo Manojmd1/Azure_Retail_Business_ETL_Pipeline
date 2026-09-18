@@ -29,7 +29,8 @@ The final business-ready Gold dataset is connected to Power BI to create interac
 
 # 🏗️ Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/44690a80-01f8-4fad-968b-eb3e7052dd17" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2560a7c0-3aa1-46ed-a571-e5ae6c5a3b10" />
+
 
 # 🎯 Business Objective
 
