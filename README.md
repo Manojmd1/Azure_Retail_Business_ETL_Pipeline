@@ -796,39 +796,6 @@ Quantity Trend
 
 This allows business users to analyze changes in retail activity over time.
 
-# 🗂️ Project Folder Structure
-
-A suggested GitHub repository structure is:
-
-Azure_Retail_Business_ETL_Pipeline/
-│
-├── README.md
-│
-├── ADF/
-│   ├── Pipelines/
-│   ├── Dataflows/
-│   ├── Datasets/
-│   └── LinkedServices/
-│
-├── Data/
-│   └── Sample/
-│
-├── PowerBI/
-│   ├── Dashboard/
-│   └── DAX/
-│
-├── Screenshots/
-│   ├── ADF_Pipeline.png
-│   ├── Silver_Dataflow.png
-│   ├── Gold_Dataflow.png
-│   ├── ADLS_Raw.png
-│   ├── ADLS_Silver.png
-│   ├── ADLS_Gold.png
-│   └── PowerBI_Dashboard.png
-│
-└── Documentation/
-    └── Architecture.png
-
 ## Silver Mapping Data Flow
 
 Source
